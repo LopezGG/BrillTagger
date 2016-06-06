@@ -1,5 +1,5 @@
 # BrillTagger
-Testing out NLTK version of Brill with Penn Tree Bank
+Testing out NLTK version of Brill with Brown corpus
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/LopezGG/BrillTagger) 
 
